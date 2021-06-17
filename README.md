@@ -1,7 +1,7 @@
 # virtualbox-linux-setup
 
 - Feste Festplattengröße erzeugen, weil dynamische Festplatten sonst irgendwann zu groß werden könnten.
-- Lubuntu installieren
+- Lubuntu installieren (Lubuntu 20.04.2.LTS)
 - VM-Einstellungen
   - System
     - Hauptspeicher: möglichst Hoch
