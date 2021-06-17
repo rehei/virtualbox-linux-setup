@@ -10,6 +10,9 @@
     - Grafik-Speicher: möglichst Hoch
     - Grafik-Controller: VBoxVGA
     - Beschleunigung: 3D-Beschleunigung aktivieren
+  - Allgemein -> Erweitert
+    - Gemeinsame Zwischenablage: bidirektional
+    - Drag'n'Drop: bidirektional
   - Sonstiges
     - ggf. VM-Monitor (1/2) und Auflösung explizit setzen
     - ggf. Automatische Anpassung der Gastanzeige setzen
