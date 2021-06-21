@@ -19,7 +19,8 @@
 - apt-get install perl gcc make 
 - as ROOT: GuestEditions einlegen und VBoxLinuxAdditions.run ausführen
   - as ROOT: VBoxClient --clipboard
-  - as ROOT: VBoxClient --draganddrop
+  - as ROOT: VBoxClient --draganddrop+#
+- ggf. Neustart
 
 # lubuntu: Get rid of ^H when hitting Backspace 
 
