@@ -23,4 +23,4 @@
 
 # lubuntu: Get rid of ^H when hitting Backspace 
 
-stty erase ^H
+stty erase ^H (z. B. wenn gerade mal wieder der ^H-Modus für Backspace aktiv ist)
