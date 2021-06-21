@@ -21,3 +21,6 @@
   - as ROOT: VBoxClient --clipboard
   - as ROOT: VBoxClient --draganddrop
 
+# lubuntu: Get rid of ^H when hitting Backspace 
+
+stty erase ^H
